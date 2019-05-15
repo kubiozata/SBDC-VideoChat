@@ -1,0 +1,9 @@
+{
+  "name": "rtci_video-chat",
+  "version": "0.0.0",
+  "description": "RTCI_VideoChat",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
